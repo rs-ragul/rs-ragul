@@ -50,8 +50,6 @@ I believe in:
 </p>
 
 ### 🔐 Security Tools
-- Nmap  
-- Wireshark  
 - Burp Suite *(learning)*  
 - Metasploit *(learning)*  
 
@@ -111,8 +109,6 @@ I believe in:
 - ✔ Launch a cybersecurity company  
 
 ---
-
-## ⚡ Quote
 
 > "Break systems to understand them. Secure systems to master them."
 
