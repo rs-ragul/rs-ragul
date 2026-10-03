@@ -8,14 +8,10 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TYPING ANIMATION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+W01F.exe;Full-Stack+Developer+%7C+Hackathon+Builder;Breaking%2C+Building%2C+Learning+%26+Securing+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+W01F.exe;Developer+%7C+Hackathon+Builder;Breaking%2C+Building%2C+Learning+%26+Securing+%F0%9F%94%A5" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -25,10 +21,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       SOCIAL BADGES                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -40,13 +32,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧠 About Me
 
@@ -56,9 +42,9 @@
 
 I'm **Ragul S (RS)**, a **Computer Science & Engineering student specializing in Cybersecurity** at **PSNA College of Engineering and Technology**.
 
-I'm interested in more than just one corner of technology. My journey combines **cybersecurity, ethical hacking, CTFs, software development, hackathons, and building practical products**.
+My interests go beyond one specialization. I enjoy **cybersecurity, ethical hacking, CTFs, software development, hackathons, and building practical products**.
 
-I like learning by doing — solving challenges, experimenting with systems, building applications, participating in competitions, and turning ideas into working prototypes.
+I learn by doing — solving challenges, experimenting with systems, building applications, participating in competitions, and turning ideas into working prototypes.
 
 <br/>
 
@@ -76,7 +62,7 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 <td valign="top" width="38%" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="Coding"/>
 
 <br/><br/>
 
@@ -87,10 +73,6 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 </table>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 CURRENT FOCUS / LEARNING / GOALS              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <table width="100%">
 <tr>
@@ -115,11 +97,11 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 - 🐧 Linux & Kali Linux
 - 🐍 Python
-- 💻 C / C++
+- 💻 C programming
 - 🌐 Web application security
 - 🔎 Recon & enumeration
 - 🧪 CTF techniques
-- ☁️ Modern web technologies
+- 🌐 Modern web development
 
 </td>
 
@@ -141,44 +123,42 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SKILLS & TECHNOLOGIES                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🛠️ Skills & Technologies
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,bash" />
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,bash" />
 
 ### 🌐 Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
+
+### 🧩 Libraries / Frameworks
+
+<img src="https://img.shields.io/badge/ShadCN%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tesseract.js-5A29E4?style=for-the-badge"/>
 
 ### 🔐 Security & Systems
 
 <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
 
-### 🗄️ Backend / Cloud / Data
-
-<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,vercel" />
-
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=target&logoColor=white"/>
+
+### ☁️ Backend / Cloud / Data
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,vercel" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CYBERSECURITY                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🛡️ Cybersecurity Journey
 
@@ -202,10 +182,6 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  COMPETITIONS & ACHIEVEMENTS                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🏆 Competitions & Highlights
 
@@ -238,10 +214,6 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 🚀 Featured Projects
 
 <table>
@@ -250,18 +222,20 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 <td width="50%" valign="top">
 
 ### 📊 GPAlytics
+
 > Student result and GPA analysis platform with OCR-based result processing.
 
-**Focus:** Web Development • OCR • Student Tools
+**Stack:** Next.js • TypeScript • Tailwind • Tesseract.js
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🩸 Hemorex
+
 > Blood donor and emergency blood availability platform developed for a hackathon.
 
-**Focus:** Full Stack • Healthcare • Hackathon
+**Stack:** Firebase • Cloudinary • Web / App technologies
 
 </td>
 
@@ -271,6 +245,7 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 <td width="50%" valign="top">
 
 ### 💧 AquaShield
+
 > Smart self-sterilizing water bottle concept combining UV-C sterilization and kinetic charging.
 
 **Focus:** IoT • Innovation • Product Design
@@ -280,9 +255,10 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 <td width="50%" valign="top">
 
 ### 🏴 W01F Arena
+
 > A custom CTF platform with hands-on cybersecurity challenges.
 
-**Focus:** CTF • Web Security • Docker
+**Stack:** Docker • Docker Compose • Web Security
 
 </td>
 
@@ -292,15 +268,17 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 <td width="50%" valign="top">
 
 ### 🌐 RS Creations Tech
+
 > My personal technology and project portfolio platform.
 
-**Focus:** Web Development • Projects • Technology
+**Stack:** React • TypeScript • Vite • Modern Web
 
 </td>
 
 <td width="50%" valign="top">
 
 ### 🐺 W01F.exe
+
 > Cybersecurity / CTF team platform and identity.
 
 **Focus:** Cybersecurity • CTF • Team
@@ -312,10 +290,6 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -323,10 +297,14 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 <table>
 <tr>
 <td>
+
 <img src="https://github-readme-stats.vercel.app/api?username=rs-ragul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&count_private=true" />
+
 </td>
 <td>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-ragul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&langs_count=8" />
+
 </td>
 </tr>
 </table>
@@ -339,59 +317,52 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      GITHUB TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Trophies
+## 📌 My Digital Presence
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rs-ragul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+<table>
+<tr>
+<th>Platform</th>
+<th>Profile</th>
+</tr>
+<tr>
+<td>🐙 GitHub</td>
+<td><a href="https://github.com/rs-ragul">rs-ragul</a></td>
+</tr>
+<tr>
+<td>💼 LinkedIn</td>
+<td><a href="https://www.linkedin.com/in/ragul-rs">Ragul S</a></td>
+</tr>
+<tr>
+<td>🛡️ TryHackMe</td>
+<td><a href="https://tryhackme.com/p/RScraft">RScraft</a></td>
+</tr>
+<tr>
+<td>💀 Hack The Box</td>
+<td><a href="https://profile.hackthebox.com/profile/019d1ee8-4517-7222-ae59-cff36aaee95a">Profile</a></td>
+</tr>
+<tr>
+<td>🏴 CTFtime</td>
+<td><a href="https://ctftime.org/user/253655">User Profile</a></td>
+</tr>
+<tr>
+<td>🐺 W01F.exe</td>
+<td><a href="https://w01fexe.vercel.app/">Team Website</a></td>
+</tr>
+<tr>
+<td>🌐 Portfolio</td>
+<td><a href="https://rscreationstech.vercel.app/">RS Creations Tech</a></td>
+</tr>
+<tr>
+<td>📧 Email</td>
+<td><a href="mailto:ragulethicalhacker@gmail.com">ragulethicalhacker@gmail.com</a></td>
+</tr>
+</table>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY GRAPH                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rs-ragul&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true&area_color=22D3EE30" width="100%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<br/>
-
-<sub>⚙️ Snake not showing? Run the GitHub Action to generate it.</sub>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         EDUCATION                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🎓 Education
 
@@ -401,10 +372,6 @@ I like learning by doing — solving challenges, experimenting with systems, bui
 Currently building a strong foundation across **cybersecurity, programming, software development and practical problem solving**.
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         BEYOND CYBER                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Beyond Cybersecurity
 
@@ -421,10 +388,6 @@ Cybersecurity is my main direction, but it isn't the only thing I build.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 📬 Connect With Me
 
 <div align="center">
@@ -437,10 +400,6 @@ Cybersecurity is my main direction, but it isn't the only thing I build.
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FUN FACTS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ A Few Things About Me
 
@@ -459,10 +418,6 @@ Cybersecurity is my main direction, but it isn't the only thing I build.
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           QUOTE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
