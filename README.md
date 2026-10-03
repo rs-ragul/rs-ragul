@@ -9,15 +9,9 @@
 </div>
 
 <div align="center">
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+W01F.exe;Developer+%7C+Hackathon+Builder;Breaking%2C+Building%2C+Learning+%26+Securing+%F0%9F%94%A5" alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=rs-ragul&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+W01F.exe;Developer+%7C+Hackathon+Builder;Building+%26+Breaking+%26+Learning+%F0%9F%94%A5" alt="Typing SVG"/>
+  </a>
 </div>
 
 <br/>
@@ -290,29 +284,29 @@ I learn by doing — solving challenges, experimenting with systems, building ap
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rs-ragul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&count_private=true" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=rs-ragul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&count_private=true" alt="GitHub Stats" width="100%"/>
 </td>
 <td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-ragul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&langs_count=8" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-ragul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="100%"/>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=rs-ragul&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="60%"/>
+---
 
+## 📈 GitHub Streak
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=rs-ragul&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub Streak" width="60%"/>
 </div>
 
 ---
