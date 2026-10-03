@@ -1,83 +1,86 @@
-<!-- ========================= HERO ========================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# ⚡ Ragul S (RS)
-
-### Cybersecurity Student • Ethical Hacker • CTF Player • Developer
-
-<p>
-  <a href="https://github.com/rs-ragul">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ragul-rs">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ragulethicalhacker@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rscreationstech.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <a href="https://tryhackme.com/p/RScraft">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://profile.hackthebox.com/profile/019d1ee8-4517-7222-ae59-cff36aaee95a">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  </a>
-  <a href="https://ctftime.org/user/253655">
-    <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=ctftime&logoColor=white" />
-  </a>
-  <a href="https://w01fexe.vercel.app/">
-    <img src="https://img.shields.io/badge/W01F.exe-000000?style=for-the-badge&logo=wolf&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:020617&height=180&section=header&text=Learn%20%E2%86%92%20Break%20%E2%86%92%20Build&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:111827,100:0f172a&height=210&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Ragul%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20Student%20%7C%20Ethical%20Hacker%20%7C%20CTF%20Player%20%7C%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TYPING ANIMATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Cybersecurity+Student+%7C+Ethical+Hacker;CTF+Player+%7C+W01F.exe;Full-Stack+Developer+%7C+Hackathon+Builder;Breaking%2C+Building%2C+Learning+%26+Securing+%F0%9F%94%A5" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rs-ragul&style=for-the-badge&color=0f172a&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       SOCIAL BADGES                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="https://github.com/rs-ragul"><img src="https://img.shields.io/badge/GitHub-rs--ragul-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ragul-rs"><img src="https://img.shields.io/badge/LinkedIn-Ragul%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:ragulethicalhacker@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rscreationstech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-RS%20Creations%20Tech-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://w01fexe.vercel.app/"><img src="https://img.shields.io/badge/W01F.exe-Team-000000?style=for-the-badge&logo=wolf&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🧠 About Me
 
-I'm **Ragul S (RS)**, a Computer Science & Engineering student specializing in **Cybersecurity** at **PSNA College of Engineering and Technology**.
-
-My interests sit at the intersection of **cybersecurity, software development, CTFs, hackathons, and building useful products**. I enjoy understanding how systems work, breaking them in controlled environments, and then turning what I learn into practical projects.
-
-I'm not focused on only one side of technology. I like moving between **security research, web development, automation, problem solving, and product building** depending on the problem I'm trying to solve.
-
-> **Break to understand. Build to solve. Secure to protect.**
-
----
-
-## 🎯 What I'm Into
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="62%">
 
-### 🔐 Cybersecurity
-- Ethical hacking & penetration testing
-- Web application security
-- Reconnaissance & enumeration
-- CTFs and security challenges
-- Security tooling & experimentation
-- Linux / Kali Linux
+I'm **Ragul S (RS)**, a **Computer Science & Engineering student specializing in Cybersecurity** at **PSNA College of Engineering and Technology**.
+
+I'm interested in more than just one corner of technology. My journey combines **cybersecurity, ethical hacking, CTFs, software development, hackathons, and building practical products**.
+
+I like learning by doing — solving challenges, experimenting with systems, building applications, participating in competitions, and turning ideas into working prototypes.
+
+<br/>
+
+| | |
+|---|---|
+| 🔐 | Exploring **Ethical Hacking & Offensive Security** |
+| 🏴 | Playing CTFs with **W01F.exe** |
+| 💻 | Building **websites, applications & tools** |
+| 🚀 | Participating in **hackathons & technical events** |
+| 🧪 | Learning through **hands-on experimentation** |
+| 🎯 | Working toward a career in **Cybersecurity** |
+| 🏢 | Long-term goal: build a **Cybersecurity company** |
 
 </td>
-<td width="50%" valign="top">
 
-### 🚀 Development & Innovation
-- Full-stack web development
-- Building practical software products
-- Hackathons & technical competitions
-- Automation & scripting
-- Rapid prototyping / vibe coding
-- Turning ideas into working projects
+<td valign="top" width="38%" align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding"/>
+
+<br/><br/>
+
+**Learn → Break → Build → Secure**
 
 </td>
 </tr>
@@ -85,201 +88,398 @@ I'm not focused on only one side of technology. I like moving between **security
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 CURRENT FOCUS / LEARNING / GOALS              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 💻 Languages
+<table width="100%">
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css" />
-</p>
+<td valign="top" width="33%">
 
-### 🌐 Development
+### 🎯 Currently Working On
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
-</p>
+- 🔐 Cybersecurity & ethical hacking
+- 🏴 CTF challenges
+- 🌐 Web security
+- 💻 Full-stack projects
+- 🧩 Hackathon projects
+- 🐺 W01F.exe
+- ⚙️ Security experiments
 
-### 🔐 Security & Systems
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github" />
-</p>
+<td valign="top" width="33%">
 
-### 🗄️ Backend / Data / Platforms
+### 📚 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,vercel" />
-</p>
-
-<p>
-  <sub>Also working with tools and technologies across web security, CTF tooling, cloud services, APIs, containers and automation.</sub>
-</p>
-
----
-
-## 🧪 Cybersecurity Journey
-
-I learn cybersecurity primarily through **hands-on practice** rather than only theory.
-
-### Platforms
-<p>
-  <a href="https://tryhackme.com/p/RScraft">
-    <img src="https://img.shields.io/badge/TryHackMe-RScraft-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://profile.hackthebox.com/profile/019d1ee8-4517-7222-ae59-cff36aaee95a">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  </a>
-  <a href="https://ctftime.org/user/253655">
-    <img src="https://img.shields.io/badge/CTFtime-Profile-000000?style=for-the-badge&logo=ctftime&logoColor=white" />
-  </a>
-</p>
-
-### W01F.exe
-
-**W01F.exe** is my current cybersecurity / CTF team.
-
-<p>
-  <a href="https://w01fexe.vercel.app/">
-    <img src="https://img.shields.io/badge/W01F.exe-Team-000000?style=for-the-badge" />
-  </a>
-  <a href="https://ctftime.org/team/442592">
-    <img src="https://img.shields.io/badge/CTFtime-Team_Profile-000000?style=for-the-badge&logo=ctftime&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🏆 Competitions & Highlights
-
-- 🥇 **Exploit-X E2 — Winner**
-- 🥇 **SNIPHERS 3.0 Intercollegiate CTF 2026 — 1st Place** with **W01F.exe**
-- 🧩 Participating in CTFs and cybersecurity competitions
-- 🚀 Building projects for hackathons and technical events
-
----
-
-## 🚀 Projects & Experiments
-
-Some of the things I've worked on or explored:
-
-| Project | What it is |
-|---|---|
-| **GPAlytics** | A result/GPA analysis platform built for students |
-| **Hemorex** | Blood donor / emergency blood availability platform |
-| **AquaShield** | Smart self-sterilizing water bottle concept |
-| **W01F Arena** | CTF platform with custom security challenges |
-| **RS Creations Tech** | My personal technology / portfolio platform |
-| **W01F.exe** | Cybersecurity / CTF team platform and identity |
-
-> I build a mix of security tools, web applications, experiments, hackathon projects and ideas that solve practical problems.
-
----
-
-## 🧩 What I'm Learning
-
-- 🔐 Ethical hacking & offensive security
+- 🐧 Linux & Kali Linux
+- 🐍 Python
+- 💻 C / C++
 - 🌐 Web application security
-- 🐧 Linux and security tooling
-- 🐍 Python for cybersecurity & automation
-- 💻 C / C++ / programming fundamentals
-- 🌐 Full-stack development
-- 🧠 Problem solving and systems thinking
-- 🏴 CTF techniques across different categories
+- 🔎 Recon & enumeration
+- 🧪 CTF techniques
+- ☁️ Modern web technologies
+
+</td>
+
+<td valign="top" width="33%">
+
+### 🌱 Long-Term Goals
+
+- 🛡️ Become a skilled ethical hacker
+- 🏆 Grow through CTFs & competitions
+- 💼 Gain real-world security experience
+- 🚀 Build impactful products
+- 🏢 Start a cybersecurity company
+- 📚 Keep learning continuously
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SKILLS & TECHNOLOGIES                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-**B.E. Computer Science and Engineering (Cyber Security)**  
-**PSNA College of Engineering and Technology**
-
-Current focus: building a strong foundation across **cybersecurity + software engineering** while gaining practical experience through projects, CTFs and hackathons.
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rs-ragul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-ragul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180" />
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,bash" />
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs" />
+
+### 🔐 Security & Systems
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+
+### 🗄️ Backend / Cloud / Data
+
+<img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,vercel" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rs-ragul&theme=tokyonight&hide_border=true" width="65%" />
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004A7C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTF-000000?style=for-the-badge&logo=target&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     CYBERSECURITY                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🛡️ Cybersecurity Journey
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/RScraft"><img src="https://img.shields.io/badge/TryHackMe-RScraft-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+<a href="https://profile.hackthebox.com/profile/019d1ee8-4517-7222-ae59-cff36aaee95a"><img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+<a href="https://ctftime.org/user/253655"><img src="https://img.shields.io/badge/CTFtime-Profile-000000?style=for-the-badge&logo=ctftime&logoColor=white"/></a>
+
+</div>
+
+### 🐺 W01F.exe
+
+**W01F.exe** is my current cybersecurity / CTF team.
+
+<div align="center">
+
+<a href="https://w01fexe.vercel.app/"><img src="https://img.shields.io/badge/W01F.exe-Website-000000?style=for-the-badge"/></a>
+<a href="https://ctftime.org/team/442592"><img src="https://img.shields.io/badge/CTFtime-Team%20Profile-000000?style=for-the-badge&logo=ctftime&logoColor=white"/></a>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  COMPETITIONS & ACHIEVEMENTS                   -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 Competitions & Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 CTF Achievements
+
+- 🏆 **Exploit-X E2 — Winner**
+- 🥇 **SNIPHERS 3.0 — 1st Place**
+- 🐺 Competed as **W01F.exe**
+- 🧩 Participating in CTFs and security challenges
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Building & Innovation
+
+- 💡 Hackathon participant
+- 🧪 Security & technology experiments
+- 🌐 Full-stack applications
+- ⚙️ Custom CTF infrastructure
+- 🚀 Turning ideas into prototypes
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     FEATURED PROJECTS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 GPAlytics
+> Student result and GPA analysis platform with OCR-based result processing.
+
+**Focus:** Web Development • OCR • Student Tools
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🩸 Hemorex
+> Blood donor and emergency blood availability platform developed for a hackathon.
+
+**Focus:** Full Stack • Healthcare • Hackathon
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💧 AquaShield
+> Smart self-sterilizing water bottle concept combining UV-C sterilization and kinetic charging.
+
+**Focus:** IoT • Innovation • Product Design
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏴 W01F Arena
+> A custom CTF platform with hands-on cybersecurity challenges.
+
+**Focus:** CTF • Web Security • Docker
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 RS Creations Tech
+> My personal technology and project portfolio platform.
+
+**Focus:** Web Development • Projects • Technology
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐺 W01F.exe
+> Cybersecurity / CTF team platform and identity.
+
+**Focus:** Cybersecurity • CTF • Team
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=rs-ragul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=FFFFFF&count_private=true" />
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs-ragul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=FFFFFF&langs_count=8" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rs-ragul&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" width="60%"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      GITHUB TROPHIES                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rs-ragul&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       ACTIVITY GRAPH                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rs-ragul&bg_color=0D1117&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true&area_color=22D3EE30" width="100%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  CONTRIBUTION SNAKE                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rs-ragul/rs-ragul/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-</div>
+<br/>
 
----
-
-## 🌐 Find Me Online
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🐙 GitHub | [rs-ragul](https://github.com/rs-ragul) |
-| 💼 LinkedIn | [Ragul S](https://www.linkedin.com/in/ragul-rs) |
-| 🛡️ TryHackMe | [RScraft](https://tryhackme.com/p/RScraft) |
-| 💀 Hack The Box | [Profile](https://profile.hackthebox.com/profile/019d1ee8-4517-7222-ae59-cff36aaee95a) |
-| 🏴 CTFtime | [User Profile](https://ctftime.org/user/253655) |
-| 🐺 W01F.exe | [Team Website](https://w01fexe.vercel.app/) |
-| 🌐 Portfolio | [RS Creations Tech](https://rscreationstech.vercel.app/) |
-| 📧 Email | [ragulethicalhacker@gmail.com](mailto:ragulethicalhacker@gmail.com) |
+<sub>⚙️ Snake not showing? Run the GitHub Action to generate it.</sub>
 
 </div>
 
 ---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         EDUCATION                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎓 Education
+
+**B.E. Computer Science and Engineering (Cyber Security)**  
+**PSNA College of Engineering and Technology**
+
+Currently building a strong foundation across **cybersecurity, programming, software development and practical problem solving**.
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         BEYOND CYBER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ Beyond Cybersecurity
 
-Technology is more than one specialization for me.
+Cybersecurity is my main direction, but it isn't the only thing I build.
 
-I enjoy:
-- 🧑‍💻 Building websites and applications
-- 🧪 Experimenting with new technologies
-- 🏴 Competing in CTFs
-- 🏆 Participating in hackathons
-- 💡 Turning ideas into prototypes
+- 💻 Web development
+- 🚀 Hackathons & innovation
+- 🧪 Technical experimentation
+- 🧩 Problem solving
+- 🌐 Full-stack projects
+- 🐍 Python & automation
 - 🎮 Gaming & technology
 - 📚 Learning something new every day
 
 ---
 
-## 🎯 Long-Term Vision
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONNECT                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Build deep practical expertise in **cybersecurity and software engineering**, gain real-world experience, and eventually create products and a company around **cybersecurity**.
-
----
+## 📬 Connect With Me
 
 <div align="center">
 
-### 🐺 W01F.exe
-
-> **Think like an attacker. Build like an engineer. Secure like a defender.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=100&section=footer" width="100%" />
+<a href="https://www.linkedin.com/in/ragul-rs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/rs-ragul"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:ragulethicalhacker@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://rscreationstech.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-<!--
-Cybersecurity Student, Ethical Hacker, CTF Player, Developer, Web Security,
-Penetration Testing, Linux, Kali Linux, CTF, Hackathons, Full Stack Development,
-W01F.exe, Security Research, Python, Web Development
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FUN FACTS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## ⚡ A Few Things About Me
+
+<div align="center">
+
+> 🔐 I like understanding how things work — and how they can be broken.
+
+> 🐺 **W01F.exe** is where my CTF journey comes together.
+
+> 🚀 I enjoy building projects as much as solving security challenges.
+
+> 🧪 I learn best by experimenting instead of just reading.
+
+> 💻 Cybersecurity is my direction, but **building things is part of the journey**.
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                           QUOTE                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" width="70%"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:0f172a&height=110&section=footer" width="100%"/>
+
+### 🐺 W01F.exe
+
+**Think like an attacker. Build like an engineer. Secure like a defender.**
+
+</div>
+
+<!-- SEO
+Cybersecurity Student, Ethical Hacker, CTF Player, Developer, W01F.exe,
+Web Security, Penetration Testing, Kali Linux, Linux, CTF, Hackathons,
+Full Stack Development, Python, Security Research
 -->
